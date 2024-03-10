@@ -4,6 +4,8 @@ Welcome to Weather-CLI, a simple command-line interface (CLI) tool built with No
 
 ## Features
 
+![Weather CLI Output](./picture/output.png)
+
 - Retrieve current weather data for a specific city.
 - Display temperature, weather conditions, and visibility.
 
